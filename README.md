@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danny-b-lee, I am a Computer Systems Engineering (Cyber Security) student at ASU!
+- 👋 Hi, I’m @danny-b-lee, I am a Computer Science (Cyber Security) student at ASU!
 - 👀 I’m interested in all things cybersecurity, as per my active persuit of a bachlors degree in it!
 - 🌱 I’m currently learning python, linux, and anything I can get my hands on.
 - 💞️ I’m looking to collaborate on pretty much anything programming related.
